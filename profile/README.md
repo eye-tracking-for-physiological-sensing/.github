@@ -5,9 +5,13 @@ At [SCIS-SMU](https://computing.smu.edu.sg/), we are exploring novel eye-trackin
 Group members:
 * [Prof Archan Misra](https://sites.google.com/view/archan-misra)
 * [A/Prof Thivya Kandappu](https://www.thivyak.info/)
-* [Nuwan Bandara](https://www.nuwanbandara.com/)
+* [Nuwan Bandara](https://www.nuwanbandara.com/) 
 
-We publicly release our methods to support further research. Feel free to reach us (at thivyak@smu.edu.sg) if you are interested in our works and/or willing to collaborate with us. 
+Our notable works:
+* "EyeGraph: Modularity-aware Spatio Temporal Graph Clustering for Continuous Event-based Eye Tracking" at NeurIPS 2024.
+* "EyeTrAES: Fine-grained, Low-Latency Eye Tracking via Adaptive Event Slicing" at ACM IMWUT 2024. [Code](https://github.com/arghasen10/EyeTrAES), [Paper](https://arxiv.org/abs/2409.18813)
+
+We publicly release our methods to support further research. Feel free to reach us (at thivyak@smu.edu.sg) if you are interested in our works and/or willing to collaborate with us.
 
 <!--
 
