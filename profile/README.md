@@ -2,7 +2,7 @@
 
 At [SCIS-SMU](https://computing.smu.edu.sg/), we are exploring novel (event-based) eye-tracking methods to better understand human psychophysiology.
 
-Group members:
+Current group members:
 * [Prof Archan Misra](https://sites.google.com/view/archan-misra)
 * [A/Prof Thivya Kandappu](https://www.thivyak.info/)
 * [Nuwan Bandara](https://www.nuwanbandara.com/) 
