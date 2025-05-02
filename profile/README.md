@@ -11,7 +11,7 @@ Our notable works:
 * "EyeGraph: Modularity-aware Spatio Temporal Graph Clustering for Continuous Event-based Eye Tracking" at NeurIPS 2024. [Paper](https://openreview.net/pdf?id=YxuuzyplFZ), [Code](https://github.com/eye-tracking-for-physiological-sensing/eyegraph)
 * "EyeTrAES: Fine-grained, Low-Latency Eye Tracking via Adaptive Event Slicing" at ACM IMWUT 2024. [Paper](https://arxiv.org/abs/2409.18813), [Code](https://github.com/arghasen10/EyeTrAES)
 
-We publicly release our methods to support further research. Feel free to reach us (at pmnsbandara@smu.edu.sg or thivyak@smu.edu.sg) if you are interested in our works and/or willing to collaborate with us.
+We publicly release our methods and/or datasets to support further research. Feel free to reach us (at pmnsbandara@smu.edu.sg or thivyak@smu.edu.sg) if you are interested in our works and/or willing to collaborate with us.
 
 <!--
 
