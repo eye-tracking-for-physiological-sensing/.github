@@ -1,6 +1,6 @@
 ## Hi 👋
 
-At [SCIS-SMU](https://computing.smu.edu.sg/), we are exploring novel (event-based) eye-tracking methods to understand human psychophysiology better.
+At [SCIS-SMU](https://computing.smu.edu.sg/), we are exploring novel, mostly event camera-based, eye-tracking methods to better understand human psychophysiology.
 
 Current group members:
 * [Prof Archan Misra](https://sites.google.com/view/archan-misra)
